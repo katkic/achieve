@@ -1,1 +1,1 @@
-puts 'change b_branch'
+puts 'master'
