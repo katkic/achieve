@@ -1,1 +1,1 @@
-puts 'ばつ'
+puts 'master'
