@@ -1,1 +1,1 @@
-puts 'さんかく'
+puts 'change a_branch'
